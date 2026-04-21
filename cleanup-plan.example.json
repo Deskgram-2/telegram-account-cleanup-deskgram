@@ -1,0 +1,13 @@
+{
+  "mode": "dialogs_and_stories",
+  "targets": [
+    "+10000000001",
+    "+10000000002"
+  ],
+  "settings": {
+    "threads": 2,
+    "clear_dialogs": true,
+    "clear_stories": true,
+    "delete_archived": false
+  }
+}
